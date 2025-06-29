@@ -1,10 +1,30 @@
-# React + Vite
+# 🚀 Furniro — Modern React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Furniro**, a sleek and responsive frontend built with **React**, **Vite**, and **Tailwind CSS**.  
+This project is designed for lightning-fast performance, clean architecture, and easy customization.
 
-#Steps to run this project
+---
 
-#step 01 :  npm i
-#step 02:   npm run dev
+## 🖥️ Tech Stack
 
-thats all
+- ⚛️ **React** — Component-based UI library
+- ⚡ **Vite** — Blazing fast frontend tooling
+- 🎨 **Tailwind CSS** — Utility-first styling
+- 🔍 **ESLint** — Code quality and consistency
+- 🛠️ **React Router DOM** — For page navigation
+
+---
+
+## 📦 Getting Started
+
+To run the project locally:
+
+### 🔧 Step 1: Install dependencies
+
+```bash
+npm install
+
+####▶️ Step 2: Start the development server
+bash
+Copy code
+npm run dev
